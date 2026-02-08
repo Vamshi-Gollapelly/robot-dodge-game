@@ -29,4 +29,8 @@ A simple 2D arcade-style game built using C# and SplashKit, where the player avo
 This project was developed as part of coursework to practice object-oriented programming and game development fundamentals.
 
 ## 📸 Screenshots
-_(Add gameplay screenshots here)_
+![Gameplay 1](screenshots/gameplay-1.png)
+![Gameplay 2](screenshots/gameplay-2.png)
+![Gameplay 3](screenshots/gameplay-3.png)
+![Gameplay 4](screenshots/gameplay-4.png)
+
